@@ -1,0 +1,9 @@
+openpyxl
+boto3
+plotly
+kaleido
+pandas
+numpy
+openpyxl
+Office365-REST-Python-Client
+hdbcli
